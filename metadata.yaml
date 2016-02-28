@@ -1,0 +1,33 @@
+_repo: The-Recreations-of-a-Country-Parson_5407
+creator:
+  author:
+    agent_name: Boyd, Andrew Kennedy Hutchison
+    alias: Boyd, Andrew Kennedy Hutchinson
+    birthdate: 1825
+    deathdate: 1899
+    gutenberg_agent_id: '1786'
+    url: http://www.gutenberg.org/2009/agents/1786
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Kennedy_Hutchison_Boyd
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Country life -- England'
+- !lcsh 'Clergy -- Anecdotes'
+- !lcsh 'Rural clergy -- England'
+tableOfContents: Concerning the country parson's life -- Concerning the art of putting
+  things -- Concerning two blisters of humanity -- Concerning work and play -- Concerning
+  country houses and country life -- Concerning tidiness -- How I mused in the railway
+  train -- Concerning the moral influences of the dwelling -- Concerning hurry and
+  leisure -- Concerning the worries of life and how to meet them -- Concerning giving
+  up and coming down -- Concerning the dignity of dulness -- Concerning growing old
+  -- Conclusion.
+title: The Recreations of a Country Parson
+url: http://www.gutenberg.org/ebooks/5407
