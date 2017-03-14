@@ -1,5 +1,8 @@
 _repo: The-Recreations-of-a-Country-Parson_5407
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Boyd, Andrew Kennedy Hutchison
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1786
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Kennedy_Hutchison_Boyd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5407#The-Recreations-of-a-Country-Parson
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
