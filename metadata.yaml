@@ -1,5 +1,5 @@
 _repo: The-Recreations-of-a-Country-Parson_5407
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ subjects:
 - !lcsh 'Country life -- England'
 - !lcsh 'Clergy -- Anecdotes'
 - !lcsh 'Rural clergy -- England'
+- GITenberg
 tableOfContents: Concerning the country parson's life -- Concerning the art of putting
   things -- Concerning two blisters of humanity -- Concerning work and play -- Concerning
   country houses and country life -- Concerning tidiness -- How I mused in the railway
